@@ -1,2 +1,3 @@
-# mindbox-task
-Test task for MindBox
+# Test task for MindBox
+
+[Visit page](https://hsifananab.github.io/mindbox-task/)
